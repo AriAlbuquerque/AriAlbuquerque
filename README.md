@@ -20,10 +20,9 @@
 
            
  <div align="center">
-   <p aling= "right">  Markdown Syntax é uma sintaxe usada para <br>padronizar e facilitar formatação de texto na web<br>
-      , utilizada em aplicativos como Slack e GitHub. Textos estilizados<br> com Markdown são, na maioria dos casos,<br>
-      apenas texto com caracteres não-alfabéticos, como #, \* <br>e ![](), usados para a configuração de títulos, listas,<br>
-      itálico, negrito e inserção de imagens.</p>
+   <p aling= "right">  Graduanda em Análise e Desenvolvimento de Sistemas, profissional com 16 anos de experiência no mercado de trabalho;
+Bootcamp Java Full Stack Developer, hardskills voltadas para a Metodologias Scrum/KANBAN, desenvolvimento em Linguagem Java, banco de dados MySQL, utilização do Framework SpringBoot e React, Insomnia, Git /GitHub e HTML e CSS. 
+.</p>
     
   <a href="https://www.linkedin.com/in/arianealbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-721881?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:contact.nicolasalbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d92763?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
