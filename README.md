@@ -8,7 +8,7 @@
   <div aling= "center">
  
 <p align="center">👾
-    <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=FullStack+DEV+..."(https://git.io/typing-svg>👾
+    <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=FullStack+Dev+Girls+..."(https://git.io/typing-svg>👾
  </p> 
     
 
