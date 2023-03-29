@@ -1,13 +1,16 @@
   <div align= "center" ><br>
 <br>
 <h1> Hey you! <br> I'm Ariane Albuquerque </h1> 
-  
-  
+  </div>
+   <img align="right" src="sinuca.gif" alt="drawing" width="300"/>
   <div align= "left" ><br>
+ 
   <h3 aling ="left">Software Developer <br>
            FullStack 👩🏽‍💻 <br>
            Tech Girl 👾 </h3>
-</div>
+           
+           
+ </div>
   
   ##
   <div align= "center" ><br>
