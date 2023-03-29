@@ -9,7 +9,7 @@
   
   <br>
   <div aling= "left">
- 
+ <br>
 <p align="center">👾
     <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=Code+Like+a+Girl+..."(https://git.io/typing-svg>👾
  </p> 
