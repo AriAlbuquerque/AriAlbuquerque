@@ -1,11 +1,24 @@
   <div align= "center" ><br>
 <br>
-<h1> Hey you I'm Ariane Albuquerque </h1> 
+<h1> Hey you! <br> I'm Ariane Albuquerque </h1> 
   
-  <div align= "center" ><br>
-  <h3 aling ="center">Software Developer <br>
-           FullStack <br>
+  
+  <div align= "left" ><br>
+  <h3 aling ="left">Software Developer <br>
+           FullStack 👩🏽‍💻 <br>
            Tech Girl 👾 </h3>
+</div>
+  
+  ##
+  <div align= "center" ><br>
+   <h3 aling ="center"> HardSkills </h3>
+  <img align="center" alt="Ariane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ariane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ariane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Ariane-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ariane-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Ariane-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ##
@@ -22,16 +35,7 @@
 
 
 
-<div align= "center" ><br>
-   <h3 aling ="center"> HardSkills </h3>
-  <img align="center" alt="Ariane-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ariane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ariane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Ariane-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ariane-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Ariane-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+
 
 
 
