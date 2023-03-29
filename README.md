@@ -4,18 +4,18 @@
 
   <br>
   <div aling= "center">
- <img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=d92763&height=120&section=header"/>
+ 
 <p align="center">👾
     <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=FullStack+DEV+..."(https://git.io/typing-svg>👾
  </p>
- <img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
+ 
 
   </div>
    
 
            
  <div align="left">
-  <a href="https://www.linkedin.com/in/arianealbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d92763?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arianealbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-721881?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:contact.nicolasalbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d92763?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
