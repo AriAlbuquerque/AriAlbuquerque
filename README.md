@@ -1,11 +1,12 @@
   <div align= "center" >
 
-<h1> Welcome <br> I'm Ariane Albuquerque </h1> 
+<img width=50% src="devgirl_Prancheta 1.png" />
+
   <br>
   <div aling= "center">
  <img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=d92763&height=120&section=header"/>
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=Desenvolvedora+Full-Stack"(https://git.io/typing-svg>
+    <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=Ariane+Albuquerque+..."(https://git.io/typing-svg>
  </p>
  <img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
 
