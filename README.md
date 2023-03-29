@@ -22,7 +22,7 @@
  <div align="center">
    <p aling= "right">  Graduanda em Análise e Desenvolvimento de Sistemas, profissional com 16 anos de experiência no mercado de trabalho;
 Java Full Stack Developer Jr. Minhas Hardskills são voltadas para a Metodologias ágeis como Scrum e KANBAN, com uso banco de dados MySQL, utilização do Framework SpringBoot e React, Insomnia, Git /GitHub e HTML e CSS. 
-.</p>
+.</p><br>
     
   <a href="https://www.linkedin.com/in/arianealbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-721881?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:contact.nicolasalbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d92763?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
