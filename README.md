@@ -27,7 +27,7 @@
 .</p><br>
     
   <a href="https://www.linkedin.com/in/arianealbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-721881?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:contact.nicolasalbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d92763?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:devarianealbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d92763?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
  
