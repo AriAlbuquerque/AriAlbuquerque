@@ -23,8 +23,7 @@
 
            
  <div align="center">
-   <p aling= "right">  Graduanda em Análise e Desenvolvimento de Sistemas, profissional com 16 anos de experiência no mercado de trabalho;
-Java Full Stack Developer Jr. Minhas Hardskills são voltadas para a Metodologias ágeis como Scrum e KANBAN, com uso banco de dados MySQL, utilização do Framework SpringBoot e React, Insomnia, Git /GitHub e HTML e CSS. 
+   <p aling= "right">  As a student of Analysis and Systems Development, and a professional with 16 years of experience in the job market, I am a Junior Java Full Stack Developer. My hard skills are focused on agile methodologies such as Scrum and KANBAN, working with MySQL databases, utilizing the SpringBoot and React frameworks, Insomnia, Git/GitHub, and HTML and CSS. 
 .</p><br>
     
   <a href="https://www.linkedin.com/in/arianealbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-721881?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
