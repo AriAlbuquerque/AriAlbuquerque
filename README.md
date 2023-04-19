@@ -38,7 +38,7 @@
 <br>
 
 
- <img align="center" alt="Ariane-Java"  width="200" src="skills_Prancheta 1.png"><br>
+ <img align="center" alt="Ariane-Java"  width="150" src="skills_Prancheta 2-01.png"><br>
   
   
   <div align= "center" 
