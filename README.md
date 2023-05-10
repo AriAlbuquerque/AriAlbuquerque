@@ -38,7 +38,7 @@
 <br>
 
 
- <img align="center" alt="Ariane-Java"  width="150" src="skills_Prancheta 2-01.png"><br>
+ <img align="center" alt="Ariane-Java"  width="200" src="skills_Prancheta 2-01.png"><br>
   
   
   <div align= "center" 
@@ -56,8 +56,8 @@
 
 <br>
 <div align ="center">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=AriAlbuquerque&show_icons=true,css&layout=compact&theme=radical" />
-  <img align= "center" width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriAlbuquerque&layout=compact&theme=radical" />
+  <img align="center" width="480px" src="https://github-readme-stats.vercel.app/api?username=AriAlbuquerque&show_icons=true,css&layout=compact&theme=radical" />
+  <img align= "center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriAlbuquerque&layout=compact&theme=radical" />
 
   
 
