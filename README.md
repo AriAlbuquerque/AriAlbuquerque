@@ -10,18 +10,11 @@
   <br>
   <div aling= "left">
  <br>
-<p align="center">👾
-    <img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=Code+Like+a+Girl+..."(https://git.io/typing-svg>👾
+<p align="center">
+ 👾<img src="https://readme-typing-svg.herokuapp.com?font=KronaOne&size=24&color=d92763&center=true&vCenter=true&lines=Code+Like+a+Girl+..."(https://git.io/typing-svg>👾
  </p> 
-    
-
-    
- 
-
   </div>
-   
-
-           
+        
  <div align="center">
    <p aling= "right">  As a student of Analysis and Systems Development, and a professional with 16 years of experience in the job market, I am a Junior Java Full Stack Developer. My hard skills are focused on agile methodologies such as Scrum and KANBAN, working with MySQL databases, utilizing the SpringBoot and React frameworks, Insomnia, Git/GitHub, and HTML and CSS. 
 .</p><br>
@@ -29,13 +22,7 @@
   <a href="https://www.linkedin.com/in/arianealbuquerque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-721881?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:devarianealbuquerque@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d92763?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
- 
-
-<br>
-
-##
-<br>
+<br><br>
 
 
  <img align="center" alt="Ariane-Java"  width="200" src="skills_Prancheta 2-01.png"><br>
@@ -52,18 +39,14 @@
   <img align="center" alt="Ariane-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ariane-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Ariane-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <br>
-
-<br>
+  <br><br>
+ 
 <div align ="center">
   <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=AriAlbuquerque&show_icons=true,css&layout=compact&theme=radical" />
   <img align= "center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriAlbuquerque&layout=compact&theme=radical" />
 
+ ![Snake animation](https://github.com/NicolasAlbuquerque/NicolasAlbuquerque/blob/output/github-contribution-grid-snake.svg)
   
-
-  ![Snake animation](https://github.com/NicolasAlbuquerque/NicolasAlbuquerque/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  </div>
+ </div>
 
  
