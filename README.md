@@ -14,7 +14,7 @@
   </div>
       
  <div align="center" >
-   <p font-size= '19' aling= "right"> I'm Ariane Albuquerque, a healthcare professional with 16 years of experience, currently transitioning to a career as a Java developer. I have intermediate knowledge of Java programming language, along with basic skills in JavaScript and web development using HTML/CSS. I am familiar with agile methodologies such as Scrum and Kanban, and I have experience using Git and GitHub for version control.
+   <p font-size= '19' aling= "right"> I'm Ariane Albuquerque, a healthcare professional with 16 years of experience, currently transitioning to a career as a developer. I have intermediate knowledge of Java and JavaScript programming language, along with basic skills in web development using HTML/CSS. I am familiar with agile methodologies such as Scrum and Kanban, and I have experience using Git and GitHub for version control.
 I am fluent in English, and I also have basic proficiency in German and intermediate proficiency in Spanish. I am passionate about leveraging my healthcare background to create innovative solutions as a Java developer.</p>
 
   <br>
