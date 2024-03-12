@@ -44,8 +44,9 @@
    
    <br>
  <div align ="center">
-  <img align="center" width="475px" src="https://github-readme-stats.vercel.app/api?username=AriAlbuquerque&show_icons=true,css&layout=compact&theme=radical" />
-  <img align= "center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriAlbuquerque&layout=compact&theme=radical" />
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=AriAlbuquerque&show_icons=true,css&layout=compact&theme=radical" />
+   <br>
+  <img align= "center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriAlbuquerque&layout=compact&theme=radical" />
   
  </div>
  
